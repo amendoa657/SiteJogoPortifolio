@@ -1,0 +1,179 @@
+<div class="computador" id="computadorConhecimentos">
+            <h1>Minhas habilidades</h1>
+            <div class="divPastas">
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img src="Assets/icones/python.png" alt="">
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 100%;" src="Assets/icones/python.png" alt="">
+                            <h1>python</h1>
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img src="Assets/icones/csharp.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 120%;" src="Assets/icones/csharp.png" alt="">
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img style="width: 80%;" src="Assets/icones/mySql.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 70%;" src="Assets/icones/mySql.png" alt="">
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img src="Assets/icones/java.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 100%;" src="Assets/icones/java.png" alt="">
+                            <h1>Java</h1>
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img src="Assets/icones/linux.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 100%;" src="Assets/icones/linux.png" alt="">
+                            <h1>Linux</h1>
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img src="Assets/icones/godot.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 100%;" src="Assets/icones/godot.png" alt="">
+                            <h1>Godot</h1>
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img style="width: 45%;" src="Assets/icones/html.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 60%;" src="Assets/icones/html.png" alt="">
+                            <h1>Html/Css</h1>
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pasta" id="pasta1">
+                    <div class="parteDeCima"></div>
+                    <div class="parteDeBaixo">
+                        <img src="Assets/icones/javascript.png" alt="">
+
+                        
+                    </div>
+                    <div class="informacoesConhecimento">
+                        <div class="informacoesLogo">
+                            <img style="width: 70%;" src="Assets/icones/javascript.png" alt="">
+                            <h1>JavaScript</h1>
+                        </div>
+                        <div class="divConhecimento">
+                            <h3>Et officiis ullam 33 quisquam numquam ut inventore similique ex numquam culpa sit sint ipsum a numquam autem. Aut similique facere ut nobis earum est labore perspiciatis in laborum aliquam 33 soluta nostrum!
+                                Et nulla corrupti qui officiis galisum aut distinctio adipisci et tempora eligendi. Ad dicta praesentium ut molestias fugit 33 consequatur dolores. Qui quidem ducimus qui numquam unde et officiis suscipit. Et ratione dignissimos et natus quam sit consequatur officia qui numquam dolores.</h3>
+
+                            <h5>Confira meus projetos:</h5>
+                            <button></button>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="botaoFecharConhecimentos" onclick="fecharConhecimentos()"></button>
+            </div>
+        </div>
